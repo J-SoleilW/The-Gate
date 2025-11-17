@@ -27,7 +27,23 @@ body {
 
 .fire {
 
-    color:rgb(222, 87, 63);
+    a:link {
+
+  color: rgb(173, 36, 6);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    a:visited {
+
+  color: rgb(72, 26, 15);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+
     font-size: 135%;
     position: fixed;
     top: 80%;
@@ -37,7 +53,22 @@ body {
 
 .water {
 
-    color: rgb(143, 201, 201);
+    a:link {
+
+  color: rgb(12, 6, 86);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    a:visited {
+
+  color: rgb(20, 24, 67);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
     font-size: 135%;
     position: fixed;
     top: 67%;
@@ -47,7 +78,22 @@ body {
 
 .air {
 
-    color: silver;
+    a:link {
+
+  color: silver;
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    a:visited {
+
+  color: rgb(81, 80, 76);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
     font-size: 135%;
     position: fixed;
     top: 67%;
@@ -57,7 +103,22 @@ body {
 
 .earth {
 
-    color: rgb(78, 202, 107);
+    a:link {
+
+  color: rgb(51, 173, 6);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    a:visited {
+
+  color: rgb(25, 72, 15);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
     font-size: 135%;
     position: fixed;
     top: 55%;
