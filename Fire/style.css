@@ -1,0 +1,21 @@
+
+body {
+
+    background-color: black;
+
+}
+.Flame {
+
+    .Error { 
+
+       color:rgb(76, 80, 133);
+       font-size: 170%;
+       font-family: 'Gerogia';
+       font-style: italic;
+       position: fixed;
+       top: 40%;
+       left: 35%;
+
+    }
+
+}
