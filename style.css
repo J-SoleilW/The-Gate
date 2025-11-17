@@ -1,0 +1,80 @@
+
+body {
+    background-color: black;
+}
+
+.choices {
+
+.message {
+
+    color: rgb(138, 123, 123);
+    font-size: 145%;
+    position: fixed;
+    top: 20%;
+    left: 27%;
+
+}
+
+.Choice {
+
+    color:brown;
+    font-size: 145%;
+    position: fixed;
+    top: 30%;
+    left: 46%;
+
+}
+
+.fire {
+
+    color:rgb(222, 87, 63);
+    font-size: 135%;
+    position: fixed;
+    top: 80%;
+    left: 48%
+
+}
+
+.water {
+
+    color: rgb(143, 201, 201);
+    font-size: 135%;
+    position: fixed;
+    top: 67%;
+    left: 28%;
+
+}
+
+.air {
+
+    color: silver;
+    font-size: 135%;
+    position: fixed;
+    top: 67%;
+    left: 64%;
+
+}
+
+.earth {
+
+    color: rgb(78, 202, 107);
+    font-size: 135%;
+    position: fixed;
+    top: 55%;
+    left: 48%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
