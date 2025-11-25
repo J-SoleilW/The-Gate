@@ -1,8 +1,14 @@
 body {
 
     background-color: black;
+    background-image: url(pexels-tima-miroshnichenko-6608260.jpg);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 
 }
+
 .Bubbles {
 
     .Error { 
@@ -12,9 +18,35 @@ body {
        font-family: 'Gerogia';
        font-style: italic;
        position: fixed;
-       top: 40%;
-       left: 35%;
+       top: 15%;
+       left: 33%;
 
     }
 
-}
+    .Run {
+
+        a:link {
+
+  color: rgb(6, 109, 173);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    a:visited {
+
+  color: rgb(24, 15, 72);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    font-size: 135%;
+    font-style: italic;
+    position: fixed;
+    top: 79%;
+    left: 46%;
+
+    }
+
+    }

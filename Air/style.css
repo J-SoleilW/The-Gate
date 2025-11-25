@@ -1,19 +1,52 @@
 body {
 
     background-color: black;
+    background-image: url(pexels-alain-frechette-630635-1431114.jpg);
+    background-size: 45%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
 
 }
 .Breeze {
 
     .Error { 
 
-       color:rgb(76, 80, 133);
+       color:rgb(126, 133, 76);
        font-size: 170%;
        font-family: 'Gerogia';
        font-style: italic;
        position: fixed;
-       top: 40%;
-       left: 35%;
+       top: 10%;
+       left: 27%;
+
+    }
+
+    .Ignore {
+
+        a:link {
+
+  color: rgb(173, 159, 6);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+    a:visited {
+
+  color: rgb(72, 15, 57);
+  background-color: transparent;
+  text-decoration: none;
+
+    }
+
+
+    font-size: 135%;
+    font-style: italic;
+    position: fixed;
+    top: 80%;
+    left: 46%;
 
     }
 

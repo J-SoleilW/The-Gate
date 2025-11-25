@@ -9,6 +9,7 @@ body {
 
     color: rgb(138, 123, 123);
     font-size: 145%;
+    font-family: 'Papyrus';
     position: fixed;
     top: 20%;
     left: 27%;
@@ -19,6 +20,7 @@ body {
 
     color:brown;
     font-size: 145%;
+    font-family: 'Papyrus';
     position: fixed;
     top: 30%;
     left: 46%;
@@ -45,6 +47,7 @@ body {
 
 
     font-size: 135%;
+    font-family: 'Papyrus';
     position: fixed;
     top: 80%;
     left: 48%
@@ -55,7 +58,7 @@ body {
 
     a:link {
 
-  color: rgb(12, 6, 86);
+  color: rgb(22, 62, 131);
   background-color: transparent;
   text-decoration: none;
 
@@ -70,6 +73,7 @@ body {
     }
 
     font-size: 135%;
+    font-family: 'Papyrus';
     position: fixed;
     top: 67%;
     left: 28%;
@@ -95,6 +99,7 @@ body {
     }
 
     font-size: 135%;
+    font-family: 'Papyrus';
     position: fixed;
     top: 67%;
     left: 64%;
@@ -120,6 +125,7 @@ body {
     }
 
     font-size: 135%;
+    font-family: 'Papyrus';
     position: fixed;
     top: 55%;
     left: 48%;
